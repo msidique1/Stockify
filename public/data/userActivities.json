@@ -1,0 +1,130 @@
+[
+    {
+        "user_id": "Francisca Hamill",
+        "action": "update",
+        "entity": "Products",
+        "entity_name": "Dynamo",
+        "message": "Product has been updated successfuly",
+        "timestamp": "2024-11-15T05:46:09.000000Z"
+    },
+    {
+        "user_id": "Francisca Hamill",
+        "action": "update",
+        "entity": "Products",
+        "entity_name": "Lacostvre",
+        "message": "Product has been updated successfuly",
+        "timestamp": "2024-12-09T00:46:09.000000Z"
+    },
+    {
+        "user_id": "Ms. Bella Upton",
+        "action": "update",
+        "entity": "Stock_Transaction",
+        "entity_name": "Outfit Kerajaan",
+        "message": "Stock Product with Type Keluar updated successful",
+        "timestamp": "2024-12-13T03:50:05.432298Z"
+    },
+    {
+        "user_id": "Ms. Bella Upton",
+        "action": "update",
+        "entity": "Stock_Transaction",
+        "entity_name": "Outfit Kerajaan",
+        "message": "Stock Product with Type Masuk updated successful",
+        "timestamp": "2024-12-13T03:53:48.760595Z"
+    },
+    {
+        "user_id": "Mr. Admin",
+        "action": "create",
+        "entity": "Products",
+        "entity_name": "Barang baru",
+        "message": "Product has been created successfuly",
+        "timestamp": "2024-12-17T14:05:46.026157Z"
+    },
+    {
+        "user_id": "Mr. Admin",
+        "action": "create",
+        "entity": "Product_Attributes",
+        "entity_name": "Alumunium",
+        "message": "Product attribute has been created successfuly",
+        "timestamp": "2024-12-17T14:07:56.415412Z"
+    },
+    {
+        "user_id": "Mr. Admin",
+        "action": "create",
+        "entity": "Categories",
+        "entity_name": "Jalan-jalan",
+        "message": "Categories has been created successfuly",
+        "timestamp": "2024-12-17T14:11:06.900624Z"
+    },
+    {
+        "user_id": "Mr. Admin",
+        "action": "update",
+        "entity": "Categories",
+        "entity_name": "Jalan santai",
+        "message": "Categories has been updated successfuly",
+        "timestamp": "2024-12-17T14:11:32.590086Z"
+    },
+    {
+        "user_id": "Mr. Admin",
+        "action": "delete",
+        "entity": "Categories",
+        "entity_name": "Jalan santai",
+        "message": "Categories has been deleted successfuly",
+        "timestamp": "2024-12-17T14:11:49.431503Z"
+    },
+    {
+        "user_id": "Mr. Admin",
+        "action": "update",
+        "entity": "Stock_Transaction",
+        "entity_name": "Kemeja Hitam",
+        "message": "Stock Product with Type Keluar updated successful",
+        "timestamp": "2024-12-17T14:16:42.920014Z"
+    },
+    {
+        "user_id": "Mr. Admin",
+        "action": "create",
+        "entity": "Supplier",
+        "entity_name": "Sidiq",
+        "message": "Supplier has been created successfuly",
+        "timestamp": "2024-12-17T14:17:34.736198Z"
+    },
+    {
+        "user_id": "Mr. Admin",
+        "action": "update",
+        "entity": "Supplier",
+        "entity_name": "Sidiq",
+        "message": "Supplier has been updated successfuly",
+        "timestamp": "2024-12-17T14:18:25.390371Z"
+    },
+    {
+        "user_id": "Mr. Admin",
+        "action": "update",
+        "entity": "User",
+        "entity_name": "Ms. Kristina Schellum",
+        "message": "User has been updated successfuly",
+        "timestamp": "2024-12-17T14:19:45.756392Z"
+    },
+    {
+        "user_id": "Mr. Admin",
+        "action": "create",
+        "entity": "User",
+        "entity_name": "sidiq",
+        "message": "User has been created successfuly",
+        "timestamp": "2024-12-17T14:20:17.466782Z"
+    },
+    {
+        "user_id": "Ms. Bella Upton",
+        "action": "create",
+        "entity": "Stock_Transaction",
+        "entity_name": "Barang baru",
+        "message": null,
+        "timestamp": "2024-12-17T14:25:20.073142Z"
+    },
+    {
+        "user_id": "Ms. Bella Upton",
+        "action": "update",
+        "entity": "Stock_Transaction",
+        "entity_name": "Outfit Kerajaan",
+        "message": "Stock Product with Type Keluar updated successful",
+        "timestamp": "2024-12-17T14:27:38.997632Z"
+    }
+]
